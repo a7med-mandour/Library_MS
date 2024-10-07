@@ -1,7 +1,7 @@
 # Library Management System
 ![Build Status](https://img.shields.io/badge/build-passing-brightgreen)
 ![License](https://img.shields.io/badge/license-MIT-blue)
-![Version](https://img.shields.io/badge/django-environ-0.11.2-orange)
+![Environ](https://img.shields.io/badge/environ-0.11.2-orange)
 ![Python Version](https://img.shields.io/badge/python-3.10.12%2B-blue)
 ![Django Version](https://img.shields.io/badge/django-5.1.1%2B-blue)
 ## Project Description
