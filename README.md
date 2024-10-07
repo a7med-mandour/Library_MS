@@ -1,9 +1,9 @@
 # Library Management System
 ![Build Status](https://img.shields.io/badge/build-passing-brightgreen)
 ![License](https://img.shields.io/badge/license-MIT-blue)
-![Version](https://img.shields.io/badge/version-1.0.0-orange)
-![Python Version](https://img.shields.io/badge/python-3.8%2B-blue)
-![Django Version](https://img.shields.io/badge/django-3.2%2B-blue)
+![Version](https://img.shields.io/badge/django-environ-0.11.2-orange)
+![Python Version](https://img.shields.io/badge/python-3.10.12%2B-blue)
+![Django Version](https://img.shields.io/badge/django-5.1.1%2B-blue)
 ## Project Description
 
 The Library Management System is a software application designed to manage libraries and their collections, including books and other materials. The system includes features for counting the number of available books, categorizing them, checking them in and out, selling, renting, adding new books, managing requests and borrowed materials, and tracking individuals who borrowed them.
